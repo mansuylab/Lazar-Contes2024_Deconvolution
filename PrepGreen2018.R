@@ -4,7 +4,7 @@
 
 # Reference:
 # Green CD, Ma Q, Manske GL, et al. A Comprehensive Roadmap of Murine Spermatogenesis Defined by Single-Cell RNA-Seq. 
-# Developmental Cell. 2018;46(5):651-667.e10. doi: 10.1016/j.devcel.2018.07.025
+# Developmental Cell. 2018;46(5):651-667.e10. doi: 10.1016/j.devcel.2018.07.025 
 
 # Load required libraries
 library(Seurat)
