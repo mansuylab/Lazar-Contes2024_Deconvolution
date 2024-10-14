@@ -8,7 +8,7 @@
 
 # Loupe files with cluster IDs were downloaded from:
 # Hermann, Brian (2018), “Queryable single-cell RNA-seq (10x Genomics) datasets of Human and Mouse spermatogenic cells”, 
-# Mendeley Data, V1, doi: 10.17632/kxd5f8vpt4.1
+# Mendeley Data, V1, doi: 10.17632/kxd5f8vpt4.1 
 
 # Load required libraries
 library(Seurat)
