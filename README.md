@@ -1,4 +1,4 @@
-This repository contains scripts used for the deconvolution analysis in Lazar-Contes et al., eLife 2024, Dynamics of transcriptional programs and chromatin accessibility in mouse spermatogonial cells from early postnatal to adult life.
+This repository contains scripts used for the deconvolution analysis in Lazar-Contes et al., eLife 2024 (https://doi.org/10.7554/eLife.91528.3), Dynamics of transcriptional programs and chromatin accessibility in mouse spermatogonial cells from early postnatal to adult life.
 
 ## Scripts
 
